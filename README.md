@@ -1,3 +1,3 @@
 # OIBSIP
-NUMBER GUESSING GAME
-ATM Interface
+1) Number Guessing Game
+2) ATM Interface
